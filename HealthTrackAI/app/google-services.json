@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850190633005",
+    "project_id": "health-track-ai",
+    "storage_bucket": "health-track-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850190633005:android:398919fbbf46ef150810a4",
+        "android_client_info": {
+          "package_name": "com.example.healthtrackai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaAtkJmdFaTDmGjjbwcZqoqf_mnuF1cYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
